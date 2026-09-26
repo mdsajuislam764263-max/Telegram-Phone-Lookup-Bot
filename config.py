@@ -9,8 +9,8 @@ REDIS_HOST = os.getenv('REDIS_HOST', 'localhost')
 REDIS_PORT = int(os.getenv('REDIS_PORT', 6379))
 REDIS_DB = int(os.getenv('REDIS_DB', 0))
 
-TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
+TELEGRAM_BOT_TOKEN = os.getenv('8790067022:AAEQXzvxc4jUL7ETAkM9p9TjwjPpxpJSQUY')
 
-ADMIN_USER_ID = os.getenv('ADMIN_USER_ID', 'your_telegram_id')
+ADMIN_USER_ID = os.getenv('8809385256, 'your_telegram_id')
 
-AUTHORIZED_USERS = ['your_telegram_username']
+AUTHORIZED_USERS = ['@Saju_404']
