@@ -11,6 +11,6 @@ REDIS_DB = int(os.getenv('REDIS_DB', 0))
 
 TELEGRAM_BOT_TOKEN = os.getenv('8790067022:AAEQXzvxc4jUL7ETAkM9p9TjwjPpxpJSQUY')
 
-ADMIN_USER_ID = os.getenv('8809385256, 'your_telegram_id')
+ADMIN_USER_ID = os.getenv('8809385256','your_telegram_id')
 
 AUTHORIZED_USERS = ['@Saju_404']
